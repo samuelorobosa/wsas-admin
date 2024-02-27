@@ -1,0 +1,24 @@
+.appbar-title{
+    padding: 1rem;
+}
+
+.users__content table.users__table {
+    width: 90%;
+    border-collapse: collapse;
+    margin: 2rem auto;
+    border-radius: 12px;
+    background-color: white;
+}
+
+.users__content .users__table th, .users__table td {
+    padding: 12px;
+    text-align: left;
+}
+
+.users__content .users__table th{
+    color: #B0B7C3;
+}
+
+.users__content .users__table thead{
+    border-bottom: 1px solid #EAEFF3;;
+}
